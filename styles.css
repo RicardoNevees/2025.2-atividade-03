@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #c5c5c5;
     padding: 20px;
     line-height: 1.6;
 }
@@ -19,14 +19,14 @@ body {
 
 .container h1 {
     text-align: center;
-    color: #333;
+    color: #616161;
     margin-bottom: 30px;
     font-size: 2.5em;
 }
 
 /* Estilo do Card */
 .card {
-    background-color: #fff;
+    background-color: #c0d1bd;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 30px;
@@ -41,8 +41,8 @@ body {
 
 /* Header do Card */
 .card-header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: linear-gradient(135deg, #b4b6be 0%, #9a57dd 100%);
+    color: rgb(26, 21, 21);
     padding: 20px;
     text-align: center;
 }
@@ -64,14 +64,14 @@ body {
 }
 
 .card-content h3 {
-    color: #667eea;
+    color: #3146a3;
     margin-top: 15px;
     margin-bottom: 10px;
     font-size: 1.3em;
 }
 
 .card-content p {
-    color: #555;
+    color: #5e5b5b;
     margin-bottom: 15px;
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 .card-content ul li {
-    background-color: #f0f0f0;
+    background-color: #ece7e7;
     padding: 8px 12px;
     margin-bottom: 8px;
     border-left: 4px solid #667eea;
@@ -91,7 +91,7 @@ body {
 .tecnologias li {
     display: inline-block;
     background-color: #667eea;
-    color: white;
+    color: rgb(65, 37, 37);
     padding: 6px 15px;
     margin: 5px;
     border-radius: 20px;
